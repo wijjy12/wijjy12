@@ -13,7 +13,7 @@
 
 <h3 align="center">Who Am I?</h3>
 <p align="left">
-I'm a passionate future data analyst with 5+ years of experience in full-stack development. My mission is to turn raw data into actionable insights and create solutions that drive business value. I thrive on learning new technologies, tackling challenging problems, and collaborating with others to achieve meaningful outcomes.
+Wijdane Azaroua, a 22-year-old computer engineering student based in Morocco, specializing in data analysis. I have a strong background in full-stack development with 2 years of experience using technologies like React and NodeJS. I m passionate about data analysis and currently learning about machine learning, big data, and cloud computing. I m actively seeking opportunities to enhance my skills, especially in distributed data systems and advanced NLP techniques. I also value collaboration, nature, and societal well-being.
 </p>
 
 ---
