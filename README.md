@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wijdane Azaroua</h1>
-<h3 align="center">Future Data Analyst | Experienced Full-Stack Developer</h3>
+<h3 align="center"> Data Analyst Junior | Future Data Engineer Junior </h3>
 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1200/1*DsIpnvUFCtKFEXCWLx3g5Q.gif" alt="Wijdane's Profile Picture" width="300" height="300" style="border-radius: 50%;">
