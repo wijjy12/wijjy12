@@ -13,7 +13,7 @@
 
 <h3 align="center">Who Am I?</h3>
 <p align="left">
-Wijdane Azaroua, a 22-year-old computer engineering student based in Morocco, specializing in data analysis. I have a strong background in full-stack development with 2 years of experience using technologies like React and NodeJS. I m passionate about data analysis and currently learning about machine learning, big data, and cloud computing. I m actively seeking opportunities to enhance my skills, especially in distributed data systems and advanced NLP techniques. I also value collaboration, nature, and societal well-being.
+Wijdane Azaroua, a 22-year-old computer engineer based in Morocco, specializing in data analysis. I have a strong background in full-stack development with 2 years of experience using technologies like React and NodeJS. Passionate about data analysis, I am currently expanding my expertise in machine learning, big data, and cloud computing. I am actively seeking opportunities to enhance my skills, particularly in distributed data systems and advanced NLP techniques. I also value collaboration, nature, and societal well-being.
 </p>
 
 ---
